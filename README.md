@@ -11,6 +11,3 @@
 
 https://user-images.githubusercontent.com/48600620/186539036-54660a11-9363-4c91-bc21-c2e923976061.mp4
 
-div id="header" align="left">
- 
-</div>
